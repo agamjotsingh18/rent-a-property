@@ -1,3 +1,19 @@
+# Rent A Property
+
+Rent a Property is a web application that allows users to search and rent properties. It provides a user-friendly interface for property owners to list their properties and for users to search and rent properties based on their requirements.
+
+
+## Features
+<ul>
+  <li>User registration and authentication
+  </li>
+  <li>Property listing and search
+  </li>
+  <li>Property details page with photos, descriptions, amenities, and contact information
+  </li>
+  <li>Dashboard for property owners to manage their listings and bookings
+  </li>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
